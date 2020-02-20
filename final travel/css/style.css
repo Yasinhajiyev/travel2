@@ -1,0 +1,196 @@
+.special .offers {
+  position: relative;
+  overflow: hidden !important; }
+  .special .offers:hover {
+    transition: .3s; }
+    .special .offers:hover .down2-a a {
+      top: 270px;
+      transition: .3s;
+      opacity: 1; }
+    .special .offers:hover h2 {
+      top: 100px;
+      transition: .3s; }
+    .special .offers:hover p {
+      top: 170px;
+      transition: .3s; }
+    .special .offers:hover img {
+      transition: .3s;
+      transform: scale(1.1); }
+  .special .offers .down1-a a {
+    padding: 10px;
+    background-color: #FA5636;
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 35px;
+    left: 35px; }
+  .special .offers h2 {
+    font-weight: 450;
+    font-size: 35px;
+    position: absolute;
+    left: 25px;
+    top: 120px;
+    transition: .3s;
+    color: white; }
+  .special .offers p {
+    position: absolute;
+    top: 190px;
+    left: 25px;
+    font-size: 14px;
+    transition: .3s;
+    color: white; }
+  .special .offers .down2-a a {
+    padding: 10px;
+    color: white;
+    border: solid 1px white;
+    position: absolute;
+    top: 370px;
+    left: 25px;
+    transition: .3s;
+    opacity: 0; }
+.special .newsletters {
+  position: relative; }
+  .special .newsletters:hover a {
+    top: 320px;
+    left: 28px;
+    transition: .3s;
+    opacity: 1; }
+  .special .newsletters:hover p {
+    top: 180px;
+    left: 25px;
+    transition: .3s; }
+  .special .newsletters:hover h2 {
+    top: 120px;
+    left: 30px;
+    transition: .3s; }
+  .special .newsletters i {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 30px;
+    color: white; }
+  .special .newsletters h2 {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    color: white;
+    transition: .3s; }
+  .special .newsletters p {
+    position: absolute;
+    top: 200px;
+    left: 24px;
+    color: white;
+    transition: .3s; }
+  .special .newsletters a {
+    padding: 10px;
+    position: absolute;
+    top: 397px;
+    left: 28px;
+    color: white;
+    border: 1px solid white;
+    opacity: 0;
+    transition: .3s;
+    text-decoration: none; }
+.special .travel {
+  position: relative; }
+  .special .travel:hover a {
+    top: 320px;
+    left: 28px;
+    transition: .3s;
+    opacity: 1; }
+  .special .travel:hover h2 {
+    top: 120px;
+    left: 12px;
+    transition: .3s; }
+  .special .travel:hover p {
+    top: 180px;
+    left: 12px;
+    transition: .3s; }
+  .special .travel i {
+    position: absolute;
+    font-size: 30px;
+    top: 20px;
+    left: 30px;
+    color: white; }
+  .special .travel h2 {
+    position: absolute;
+    top: 150px;
+    left: 12px;
+    transition: .3s;
+    color: white; }
+  .special .travel a {
+    padding: 10px;
+    position: absolute;
+    top: 397px;
+    left: 28px;
+    border: 1px solid white;
+    transition: .3s;
+    text-decoration: none;
+    opacity: 0;
+    color: white; }
+  .special .travel p {
+    position: absolute;
+    top: 200px;
+    left: 12px;
+    transition: .3s;
+    color: white; }
+
+.tour ul .dropped-menu {
+  position: relative;
+  display: none; }
+  .tour ul .dropped-menu li {
+    position: relative;
+    transform: translateX(64.5px);
+    border: 1px solid grey;
+    width: 8%;
+    list-style: none;
+    cursor: pointer;
+    text-align: center; }
+  .tour ul .dropped-menu.active {
+    display: block; }
+
+.summer-slider .slick-arrow button {
+  color: green; }
+.summer-slider .image-text {
+  border: 1px solid #5E6D77; }
+  .summer-slider .image-text .image {
+    border: 1px solid #5E6D77;
+    overflow: hidden;
+    position: relative; }
+    .summer-slider .image-text .image:hover img {
+      transition: .3s;
+      transform: scale(1.1); }
+    .summer-slider .image-text .image .st_sale_class {
+      position: absolute;
+      width: 80px;
+      height: 48px;
+      -webkit-transform: rotate(45deg);
+      transform: rotate(45deg);
+      right: -30px;
+      top: -13px;
+      line-height: 65px;
+      text-align: center;
+      color: #fff;
+      font-size: 15px;
+      z-index: 8;
+      background-color: #cc0033; }
+    .summer-slider .image-text .image .triangle {
+      position: absolute;
+      background-color: #cc0033;
+      width: 80%; }
+    .summer-slider .image-text .image p {
+      position: absolute;
+      top: -165px;
+      left: 15px;
+      color: white;
+      font-size: 18px;
+      padding: 1px 3px 1px 3px;
+      background-color: #19A1E5; }
+    .summer-slider .image-text .image i {
+      position: absolute;
+      top: -160px;
+      right: -127px;
+      color: white;
+      font-size: 25px; }
+
+/*# sourceMappingURL=style.css.map */

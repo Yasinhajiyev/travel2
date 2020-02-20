@@ -1,0 +1,149 @@
+.special{
+    .offers{
+        background-image: url(https://mixmap.travelerwp.com/wp-content/uploads/2019/02/image_banner_1.jpg);
+        background-repeat: no-repeat;
+        
+        position: relative;
+        .down1-a{
+        a{background: #FA5636;
+            font-size: 14px;
+            color: #FFF;
+            font-weight: 500;
+            padding: 10px;
+            
+            position: relative;
+            left: 25px;
+            top: 25px;  }}
+            h2{
+                color: #fff;
+                        position: relative;
+                        font-weight: 450;
+                        font-size: 35px;
+                        margin-bottom: 18px;
+                        
+                        
+                        left: 25px;
+                        top: 50px;
+            }
+            p{
+                color: #fff;
+                        font-size: 14px;
+                        line-height: 24px;
+                        padding-bottom: 75px;
+                        position: relative;
+                        left: 25px;
+                        top: 75px;
+            }
+            .down2-a{
+                a{
+                    font-size: 14px;
+                            font-weight: 400;
+                            padding: 8px;
+                            border: 1px solid white;
+                            position: relative;
+                            background-color:blue
+                }
+            }
+            
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="summer-slider">
+            <div class="row">
+                <div class="image-text">
+                    <div class="image">
+                        <img src="https://mixmap.travelerwp.com/wp-content/uploads/2017/06/slide-faqs-260x190.jpg" alt="">
+                        <div class="image-header">
+                            <div class="row justify-content-between">
+                                <div class="col-md-8">
+                                    <h4>Featured</h4>
+                                </div>
+                                <div class="col-md-1">
+                                    <i class="fas fa-heart"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="vendors/bootstrap/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="special">
+            <div class="row">
+                <div class="col-md-10">
+                    <div class="offers">
+                        <div class="down1-a">
+                        <a href="#">HOLIDAY SALE</a>
+
+                        </div>
+                        <h2>Special Offers</h2>
+                        <p >Find Your Perfect Hotels Get the best<br /> prices on 20,000+ properties<br /> the best prices on</p>
+                        <div class="down2-a"><a href="#">See Deals</a></div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
